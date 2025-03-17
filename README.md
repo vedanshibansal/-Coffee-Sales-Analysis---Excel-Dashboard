@@ -10,6 +10,8 @@ Running a coffee business sounds exciting, but making smart business decisions r
 
 Using **Excel functions, data cleaning techniques, and an interactive dashboard**, we transformed raw data into meaningful insights. Let's explore! 🔍
 
+![Final Dashboard](CofeeSalesDashboard.png)
+
 ---
 
 ## 📂 Understanding the Data
@@ -27,6 +29,9 @@ This table tracks every coffee sale made, capturing essential transaction detail
 - **Country** – The country where the order was placed.
 - **Coffee Type & Roast Type** – Specific details about the coffee purchased.
 - **Loyalty Program** – Indicates if the customer is part of the loyalty scheme.
+
+![Orders Data](Orders Data.png)
+
 
 ### 2️⃣ Customers Data 👥
 This table gives us insight into who is buying the coffee:
@@ -59,14 +64,14 @@ Before diving into analysis, we had to clean and structure the data. Here's what
 ## 📈 Key Insights from the Data
 
 ### 1️⃣ Who are our most valuable customers? 👤
-📌 _Insert Screenshot of Top 5 Customers Table_
+![Top Customers](Top 5 customers.png)
 
 - The **top 5 customers contribute 15% of total revenue**.
 - Customers in the **loyalty program** tend to spend more than regular buyers.
 - High spenders mostly purchase **larger coffee sizes (2.5kg packs).**
 
 ### 2️⃣ Which country generates the highest sales? 🌍
-📌 _Insert Screenshot of Country Sales Chart_
+![Country's Sales](Country's Sales.png)
 
 - **United States** leads the market with **$35,638** in total sales, followed by **Ireland ($6,696) and the UK ($2,798).**
 - **Robusta** is the favorite in Ireland, while **Arabica dominates the US market.**
@@ -80,7 +85,7 @@ Before diving into analysis, we had to clean and structure the data. Here's what
 - Larger coffee packs (**2.5kg**) contribute more to total sales, making them a strategic product for revenue growth.
 
 ### 4️⃣ Sales Performance Over Time 📊
-📌 _Insert Screenshot of Sales Trends Chart_
+![Year Wise Sales](Year Wise Sales.png)
 
 - **Sales peak in October - December**, likely due to holiday demand.
 - **Over the years, sales increased by 18% between 2019-2021**, showing a steady business growth.
@@ -89,8 +94,7 @@ Before diving into analysis, we had to clean and structure the data. Here's what
 ---
 
 ## 📊 Final Dashboard – Everything in One Place
-
-📌 _Insert Screenshot of Full Excel Dashboard_
+![Final Dashboard](CofeeSalesDashboard.png)
 
 After processing and analyzing the data, we created an **interactive Excel dashboard** that provides a complete business overview:
 
