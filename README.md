@@ -64,14 +64,14 @@ Before diving into analysis, we had to clean and structure the data. Here's what
 ## 📈 Key Insights from the Data
 
 ### 1️⃣ Who are our most valuable customers? 👤
-![Top Customers](Top 5 customers.png)
+![Top Customers](https://github.com/vedanshibansal/-Coffee-Sales-Analysis---Excel-Dashboard/blob/89b0986d29f46f39a0e86cb999a9fd6425cc017d/Top%205%20customers "Top 5 customers.png")
 
 - The **top 5 customers contribute 15% of total revenue**.
 - Customers in the **loyalty program** tend to spend more than regular buyers.
 - High spenders mostly purchase **larger coffee sizes (2.5kg packs).**
 
 ### 2️⃣ Which country generates the highest sales? 🌍
-![Country's Sales](Country's Sales.png)
+![Country's Sales](https://github.com/vedanshibansal/-Coffee-Sales-Analysis---Excel-Dashboard/blob/89b0986d29f46f39a0e86cb999a9fd6425cc017d/Country's%20Sales "Country's Sales.png")
 
 - **United States** leads the market with **$35,638** in total sales, followed by **Ireland ($6,696) and the UK ($2,798).**
 - **Robusta** is the favorite in Ireland, while **Arabica dominates the US market.**
@@ -85,7 +85,7 @@ Before diving into analysis, we had to clean and structure the data. Here's what
 - Larger coffee packs (**2.5kg**) contribute more to total sales, making them a strategic product for revenue growth.
 
 ### 4️⃣ Sales Performance Over Time 📊
-![Year Wise Sales](Year Wise Sales.png)
+![Year Wise Sales](https://github.com/vedanshibansal/-Coffee-Sales-Analysis---Excel-Dashboard/blob/89b0986d29f46f39a0e86cb999a9fd6425cc017d/Year%20Wise%20Sales "Year Wise Sales.png")
 
 - **Sales peak in October - December**, likely due to holiday demand.
 - **Over the years, sales increased by 18% between 2019-2021**, showing a steady business growth.
@@ -94,7 +94,7 @@ Before diving into analysis, we had to clean and structure the data. Here's what
 ---
 
 ## 📊 Final Dashboard – Everything in One Place
-![Final Dashboard](CofeeSalesDashboard.png)
+![Final Dashboard](https://github.com/vedanshibansal/-Coffee-Sales-Analysis---Excel-Dashboard/blob/fa6af5460adfc6082cbc2cd279f8b25781baa093/CoffeeSalessDashboard "CofeeSalesDashboard.png")
 
 After processing and analyzing the data, we created an **interactive Excel dashboard** that provides a complete business overview:
 
