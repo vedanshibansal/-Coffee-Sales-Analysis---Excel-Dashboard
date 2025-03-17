@@ -30,7 +30,7 @@ This table tracks every coffee sale made, capturing essential transaction detail
 - **Coffee Type & Roast Type** – Specific details about the coffee purchased.
 - **Loyalty Program** – Indicates if the customer is part of the loyalty scheme.
 
-![Orders Data](Orders Data.png)
+![Orders Data](https://github.com/vedanshibansal/-Coffee-Sales-Analysis---Excel-Dashboard/blob/714263912ec5262b4019b70725ed5e30d6def9cf/Orders%20Data "Orders Data.png")
 
 
 ### 2️⃣ Customers Data 👥
