@@ -10,7 +10,7 @@ Running a coffee business sounds exciting, but making smart business decisions r
 
 Using **Excel functions, data cleaning techniques, and an interactive dashboard**, we transformed raw data into meaningful insights. Let's explore! 🔍
 
-![Final Dashboard](CofeeSalesDashboard.png)
+![Final Dashboard](https://github.com/vedanshibansal/-Coffee-Sales-Analysis---Excel-Dashboard/blob/fa6af5460adfc6082cbc2cd279f8b25781baa093/CoffeeSalessDashboard "CofeeSalesDashboard.png")
 
 ---
 
