@@ -104,9 +104,7 @@ After processing and analyzing the data, we created an **interactive Excel dashb
 ## 📂 Files Included in This Project
 
 📁 **Final_Dashboard.xlsx** – The interactive Excel Dashboard.  
-📁 **coffeeOrders_Data.xlsx** – The raw data used for analysis.  
-📁 **queries/** – The Excel formulas and processed tables.  
-📁 **visualizations/** – Screenshots of key charts and dashboards.  
+📁 **coffeeOrders_Data.xlsx** – The raw data used for analysis.   
 
 ---
 
